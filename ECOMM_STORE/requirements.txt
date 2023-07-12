@@ -1,0 +1,16 @@
+Django
+django-bootstrap-v5
+django-countries
+django-crontab
+django-embed-video
+django-filter
+django-recaptcha
+django-summernote
+googlemaps
+Pillow
+python-social-auth
+python3-openid
+pytz
+django-phonenumber-field
+django-cities
+djangorestframework
